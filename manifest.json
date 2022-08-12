@@ -1,7 +1,7 @@
 {
   "name": "My App",
   "short_name": "My App",
-  "start_url": "/",
+  "start_url": "/pwa-ap/",
   "icons": [
     {
       "src": "icons/manifest-icon-192.maskable.png",
