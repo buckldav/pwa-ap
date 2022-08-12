@@ -41,7 +41,7 @@ For this app, it doesn't matter too much what your logo is, so you could generat
     <!-- 2. Add this -->
     <script>
       if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("/service-worker.js");
+        navigator.serviceWorker.register("service-worker.js");
       }
     </script>
     <!-- End -->
